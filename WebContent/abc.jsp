@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body style="height: 319px; width: 290px">
 <%
     double num = Math.random();
     if (num > 0.95) {
@@ -19,6 +19,6 @@
   <%
     }
   %>
-  <h3><a href="<%= request.getRequestURI() %>">Try Again</a></h3>
+  <h3><a href="<%= request.getRequestURI() %>">Try Again<br></a><input type="submit" align="middle" height="50" border="200"></h3>
 </body>
 </html>
