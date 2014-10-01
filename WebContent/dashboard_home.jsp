@@ -4,9 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" href="css/style.css" type="text/css"></link>
 <title>Insert title here</title>
 </head>
 <body>
-
+	<div id="content_container">
+		<div id="content_left">
+		</div>
+		<div id="content_right">
+		</div>
+	</div>
 </body>
 </html>
