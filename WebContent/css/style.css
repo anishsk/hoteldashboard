@@ -1,17 +1,1653 @@
 @CHARSET "ISO-8859-1";
+div#container
+{
+   width: 1072px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 8px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#base_container
+{
+   background-color: #A0A0A0;
+   border: 1px #000000 solid;
+   -moz-box-shadow: 1px 1px 5px #505050;
+   -webkit-box-shadow: 1px 1px 5px #505050;
+   box-shadow: 1px 1px 5px #505050;
+}
+#menu_container
+{
+   background-color: #505050;
+}
+#wb_CssMenu1
+{
+   border: 0px #C0C0C0 solid;
+   background-color: transparent;
+}
+#wb_CssMenu1 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+#wb_CssMenu1 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 4px 0px 0px;
+   width: 80px;
+}
+#wb_CssMenu1 a
+{
+   display: block;
+   float: left;
+   color: #666666;
+   border: 1px #C0C0C0 solid;
+   background-color: #EEEEEE;
+   background-image: none;
+   font-family: Arial;
+   font-size: 13px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   width: 68px;
+   height: 26px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   line-height: 26px;
+   text-align: center;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover, #wb_CssMenu1 .active
+{
+   color: #666666;
+   background-color: #C0C0C0;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+}
+#wb_CssMenu1 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu1 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#wb_Form1
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_billgeneration
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text11 div
+{
+   text-align: left;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text12 div
+{
+   text-align: left;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text13 div
+{
+   text-align: left;
+}
+#wb_Text14 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text14 div
+{
+   text-align: left;
+}
+#AdvancedButton1
+{
+   border: 1px #000000 solid;
+   background-color: #FF0000;
+}
+#table_list
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+}
+#Button1
+{
+}
+#Button2
+{
+}
+#Button3
+{
+}
+#Button4
+{
+}
+#Button5
+{
+}
+#Button6
+{
+}
+#Button7
+{
+}
+#AdvancedButton4
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+}
+#AdvancedButton5
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+}
+#AdvancedButton6
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+}
+#AdvancedButton7
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+}
+#AdvancedButton8
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+}
+#currentorderdetail
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+}
+#Food_Item_List
+{
+   border: 2px #000000 solid;
+   background-color: transparent;
+   border-spacing: 0px;
+}
+#Food_Item_List td
+{
+   padding: 0px 0px 0px 0px;
+}
+#Food_Item_List td div
+{
+   white-space: nowrap;
+}
+#Bar_Item_List
+{
+   border: 2px #000000 solid;
+   background-color: transparent;
+   border-spacing: 0px;
+}
+#Bar_Item_List td
+{
+   padding: 0px 0px 0px 0px;
+}
+#Bar_Item_List td div
+{
+   white-space: nowrap;
+}
+#menuitems
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+}
+#Layer1
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text15 div
+{
+   text-align: left;
+}
+#AdvancedButton6
+{
+   position: absolute;
+   left: 283px;
+   top: 527px;
+   width: 64px;
+   height: 50px;
+   z-index: 55;
+}
+#wb_uid19
+{
+   text-align: center;
+}
+#Button5
+{
+   position: absolute;
+   left: 287px;
+   top: 3px;
+   width: 52px;
+   height: 40px;
+   z-index: 38;
+}
+#Editbox1
+{
+   position: absolute;
+   left: 65px;
+   top: 11px;
+   width: 51px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 5;
+}
+#wb_uid1
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#Bar_Item_List
+{
+   position: absolute;
+   left: 7px;
+   top: 53px;
+   width: 509px;
+   height: 46px;
+   z-index: 41;
+}
+#AdvancedButton7
+{
+   position: absolute;
+   left: 351px;
+   top: 527px;
+   width: 64px;
+   height: 50px;
+   z-index: 56;
+}
+#Button6
+{
+   position: absolute;
+   left: 231px;
+   top: 3px;
+   width: 52px;
+   height: 40px;
+   z-index: 37;
+}
+#Editbox2
+{
+   position: absolute;
+   left: 369px;
+   top: 11px;
+   width: 56px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 15;
+}
+#wb_uid2
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text1
+{
+   position: absolute;
+   left: 9px;
+   top: 15px;
+   width: 60px;
+   height: 14px;
+   z-index: 4;
+   text-align: left;
+}
+#basicdate
+{
+   color: #FFFFFF;
+   font-size: 12px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+}
+#basicclock
+{
+   color: #FFFFFF;
+   font-size: 12px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+}
+#AdvancedButton8
+{
+   position: absolute;
+   left: 11px;
+   top: 583px;
+   width: 64px;
+   height: 50px;
+   z-index: 57;
+}
+#Button7
+{
+   position: absolute;
+   left: 343px;
+   top: 3px;
+   width: 52px;
+   height: 40px;
+   z-index: 39;
+}
+#Editbox3
+{
+   position: absolute;
+   left: 69px;
+   top: 47px;
+   width: 44px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 10;
+}
+#wb_uid3
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text2
+{
+   position: absolute;
+   left: 129px;
+   top: 15px;
+   width: 40px;
+   height: 14px;
+   z-index: 6;
+   text-align: left;
+}
+#wb_uid60
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#AdvancedButton9
+{
+   position: absolute;
+   left: 2px;
+   top: 3px;
+   width: 64px;
+   height: 50px;
+   z-index: 43;
+}
+#Editbox4
+{
+   position: absolute;
+   left: 185px;
+   top: 47px;
+   width: 119px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 12;
+}
+#wb_uid4
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text3
+{
+   position: absolute;
+   left: 301px;
+   top: 15px;
+   width: 64px;
+   height: 14px;
+   z-index: 8;
+   text-align: left;
+}
+#wb_uid61
+{
+   text-align: center;
+}
+#Layer1
+{
+   position: absolute;
+   text-align: left;
+   left: 485px;
+   top: 425px;
+   width: 526px;
+   height: 214px;
+   z-index: 60;
+}
+#menuitems
+{
+   position: absolute;
+   text-align: left;
+   left: 484px;
+   top: 271px;
+   width: 527px;
+   height: 142px;
+   z-index: 59;
+}
+#wb_uid50
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#currentorderdetail
+{
+   position: absolute;
+   text-align: left;
+   left: 483px;
+   top: 153px;
+   width: 524px;
+   height: 104px;
+   z-index: 58;
+}
+#Editbox5
+{
+   position: absolute;
+   left: 369px;
+   top: 43px;
+   width: 56px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 14;
+}
+#wb_uid5
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text4
+{
+   position: absolute;
+   left: 9px;
+   top: 51px;
+   width: 52px;
+   height: 14px;
+   z-index: 9;
+   text-align: left;
+}
+#wb_uid62
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_uid51
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 180px;
+   height: 20px;
+}
+#wb_uid40
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 20px;
+}
+#table_list
+{
+   position: absolute;
+   text-align: left;
+   left: 15px;
+   top: 155px;
+   width: 436px;
+   height: 359px;
+   z-index: 50;
+}
+#Editbox6
+{
+   position: absolute;
+   left: 135px;
+   top: 15px;
+   width: 48px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 17;
+}
+#wb_uid6
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text5
+{
+   position: absolute;
+   left: 125px;
+   top: 51px;
+   width: 56px;
+   height: 14px;
+   z-index: 11;
+   text-align: left;
+}
+#wb_uid63
+{
+   text-align: center;
+}
+#wb_uid52
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 20px;
+}
+#wb_uid41
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 20px;
+}
+#wb_uid30
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#Editbox7
+{
+   position: absolute;
+   left: 259px;
+   top: 15px;
+   width: 49px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 19;
+}
+#wb_uid7
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text6
+{
+   position: absolute;
+   left: 325px;
+   top: 51px;
+   width: 28px;
+   height: 14px;
+   z-index: 13;
+   text-align: left;
+}
+#wb_uid64
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_uid53
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 20px;
+}
+#wb_uid42
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 20px;
+}
+#wb_uid31
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 180px;
+   height: 18px;
+}
+#wb_uid20
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#Editbox10
+{
+   position: absolute;
+   left: 135px;
+   top: 43px;
+   width: 48px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 25;
+}
+#Editbox8
+{
+   position: absolute;
+   left: 359px;
+   top: 15px;
+   width: 45px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 21;
+}
+#wb_uid8
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text7
+{
+   position: absolute;
+   left: 83px;
+   top: 19px;
+   width: 67px;
+   height: 14px;
+   z-index: 16;
+   text-align: left;
+}
+#wb_clock
+{
+   position: absolute;
+   left: 840px;
+   top: 12px;
+   width: 132px;
+   height: 24px;
+   z-index: 1;
+}
+#wb_uid54
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 20px;
+}
+#wb_uid43
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 180px;
+   height: 18px;
+}
+#wb_uid32
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid21
+{
+   text-align: center;
+}
+#Editbox11
+{
+   position: absolute;
+   left: 259px;
+   top: 43px;
+   width: 48px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 27;
+}
+#Editbox9
+{
+   position: absolute;
+   left: 471px;
+   top: 15px;
+   width: 45px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 23;
+}
+#wb_uid10
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text10
+{
+   position: absolute;
+   left: 435px;
+   top: 19px;
+   width: 24px;
+   height: 14px;
+   z-index: 22;
+   text-align: left;
+}
+#wb_uid9
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text8
+{
+   position: absolute;
+   left: 195px;
+   top: 19px;
+   width: 58px;
+   height: 14px;
+   z-index: 18;
+   text-align: left;
+}
+#base_container
+{
+   position: absolute;
+   text-align: left;
+   left: 0px;
+   top: 0px;
+   width: 1024px;
+   height: 660px;
+   z-index: 108;
+}
+#wb_uid55
+{
+   text-align: center;
+}
+#wb_uid44
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid33
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 18px;
+}
+#wb_uid22
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#Editbox12
+{
+   position: absolute;
+   left: 359px;
+   top: 43px;
+   width: 44px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 29;
+}
+#wb_uid11
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text11
+{
+   position: absolute;
+   left: 83px;
+   top: 47px;
+   width: 42px;
+   height: 14px;
+   z-index: 24;
+   text-align: left;
+}
+#wb_Text9
+{
+   position: absolute;
+   left: 323px;
+   top: 19px;
+   width: 30px;
+   height: 14px;
+   z-index: 20;
+   text-align: left;
+}
+#AdvancedButton10
+{
+   position: absolute;
+   left: 70px;
+   top: 3px;
+   width: 64px;
+   height: 50px;
+   z-index: 44;
+}
+#wb_uid56
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_uid45
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 18px;
+}
+#wb_uid34
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid23
+{
+   text-align: center;
+}
+#Editbox13
+{
+   position: absolute;
+   left: 471px;
+   top: 43px;
+   width: 45px;
+   height: 18px;
+   line-height: 18px;
+   z-index: 31;
+}
+#wb_uid12
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text12
+{
+   position: absolute;
+   left: 195px;
+   top: 47px;
+   width: 46px;
+   height: 14px;
+   z-index: 26;
+   text-align: left;
+}
+#wb_uid57
+{
+   text-align: center;
+}
+#AdvancedButton11
+{
+   position: absolute;
+   left: 138px;
+   top: 3px;
+   width: 64px;
+   height: 50px;
+   z-index: 42;
+}
+#wb_uid46
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid35
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 18px;
+}
+#wb_uid24
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid13
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text13
+{
+   position: absolute;
+   left: 323px;
+   top: 47px;
+   width: 22px;
+   height: 14px;
+   z-index: 28;
+   text-align: left;
+}
+#AdvancedButton12
+{
+   position: absolute;
+   left: 5px;
+   top: 5px;
+   width: 64px;
+   height: 50px;
+   z-index: 45;
+}
+#wb_uid58
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_uid47
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 105px;
+   height: 18px;
+}
+#wb_uid36
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid25
+{
+   text-align: center;
+}
+#AdvancedButton1
+{
+   position: absolute;
+   left: 11px;
+   top: 15px;
+   width: 64px;
+   height: 48px;
+   z-index: 32;
+}
+#wb_uid14
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text14
+{
+   position: absolute;
+   left: 415px;
+   top: 47px;
+   width: 44px;
+   height: 14px;
+   z-index: 30;
+   text-align: left;
+}
+#wb_Form1
+{
+   position: absolute;
+   left: 14px;
+   top: 64px;
+   width: 439px;
+   height: 77px;
+   z-index: 48;
+}
+#wb_CssMenu1
+{
+   position: absolute;
+   left: 9px;
+   top: 8px;
+   width: 336px;
+   height: 28px;
+   z-index: 0;
+}
+#menu_container
+{
+   position: absolute;
+   text-align: left;
+   left: 11px;
+   top: 3px;
+   width: 1004px;
+   height: 43px;
+   z-index: 47;
+}
+#AdvancedButton13
+{
+   position: absolute;
+   left: 73px;
+   top: 5px;
+   width: 64px;
+   height: 50px;
+   z-index: 46;
+}
+#wb_uid59
+{
+   text-align: center;
+}
+#wb_uid48
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid37
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 18px;
+}
+#Food_Item_List
+{
+   position: absolute;
+   left: 7px;
+   top: 5px;
+   width: 509px;
+   height: 46px;
+   z-index: 40;
+}
+#wb_uid26
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#AdvancedButton2
+{
+   position: absolute;
+   left: 11px;
+   top: 527px;
+   width: 64px;
+   height: 50px;
+   z-index: 51;
+}
+#Button1
+{
+   position: absolute;
+   left: 3px;
+   top: 3px;
+   width: 52px;
+   height: 40px;
+   z-index: 33;
+}
+#wb_uid15
+{
+   text-align: center;
+}
+#wb_Text15
+{
+   position: absolute;
+   left: 548px;
+   top: 12px;
+   width: 128px;
+   height: 32px;
+   z-index: 3;
+   text-align: left;
+}
+#wb_uid49
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 18px;
+}
+#wb_uid38
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid27
+{
+   text-align: center;
+}
+#AdvancedButton3
+{
+   position: absolute;
+   left: 79px;
+   top: 527px;
+   width: 64px;
+   height: 50px;
+   z-index: 52;
+}
+#Button2
+{
+   position: absolute;
+   left: 59px;
+   top: 3px;
+   width: 52px;
+   height: 40px;
+   z-index: 34;
+}
+#wb_uid16
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_
+{
+   position: absolute;
+   left: 688px;
+   top: 12px;
+   width: 150px;
+   height: 24px;
+   z-index: 2;
+}
+#wb_uid39
+{
+   background-color: transparent;
+   border: 1px #000000 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 180px;
+   height: 20px;
+}
+#wb_uid28
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#AdvancedButton4
+{
+   position: absolute;
+   left: 147px;
+   top: 527px;
+   width: 64px;
+   height: 50px;
+   z-index: 53;
+}
+#wb_uid17
+{
+   text-align: center;
+}
+#Button3
+{
+   position: absolute;
+   left: 115px;
+   top: 3px;
+   width: 52px;
+   height: 40px;
+   z-index: 35;
+}
+#Combobox1
+{
+   position: absolute;
+   left: 173px;
+   top: 11px;
+   width: 112px;
+   height: 20px;
+   z-index: 7;
+}
+#wb_uid29
+{
+   text-align: center;
+}
+#AdvancedButton5
+{
+   position: absolute;
+   left: 215px;
+   top: 527px;
+   width: 64px;
+   height: 50px;
+   z-index: 54;
+}
+#wb_uid18
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#Button4
+{
+   position: absolute;
+   left: 171px;
+   top: 3px;
+   width: 52px;
+   height: 40px;
+   z-index: 36;
+}
+#wb_billgeneration
+{
+   position: absolute;
+   left: 483px;
+   top: 63px;
+   width: 524px;
+   height: 80px;
+   z-index: 49;
+}
+#wb_uid0
+{
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 13px;
+}
+
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+h1
+{
+   font-family: Arial;
+   font-size: 32px;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h2
+{
+   font-family: Arial;
+   font-size: 27px;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h3
+{
+   font-family: Arial;
+   font-size: 24px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h4
+{
+   font-family: Arial;
+   font-size: 21px;
+   font-weight: normal;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h5
+{
+   font-family: Arial;
+   font-size: 19px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h6
+{
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-size: 16px;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   color: #000080;
+   background-color: transparent;
+}
+.formlayout
+{
+   font-size: 11px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: #FFFFFF;
+   margin: 1px 1px 1px 1px;
+   padding: 0px 0px 0px 0px;
+}
+.vacanttable
+{
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: #00FF00;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+.occupiedtable
+{
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: #FF0000;
+   border: 1px #000000 solid;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+
+/*body{
+	text-align: center;
+}
+form{
+	display: inline;
+	float: left;
+}
+#menubar{
+	background-color: rgb(50,50,50);
+	height: 25px;
+	margin: 1px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
 #content_container{
-	width:100%;
-    height:100%;
+	width: 1024px;
+    height: 660px;
+    margin: 0 auto;
+    border: thin solid gray;
+    box-shadow: 1px 1px 5px #888888;
+    background-color: lightgray;
+    overflow: auto;
 }
 
 #content_left{
-	max-width: 65%;
-	max-height: 100%;
-	color: black;
+	width: 60%;
+	float: left;
+}
+#table_detail{
+	border: thin solid #424242;
+	height: 60px;
+	width: 99%;
+	margin: 2px;
+}
+
+#table_list{
+	border: thin solid #424242;
+	height: 530px;
+	width: 99%;
+	margin: 2px;
+	overflow: auto;
+	/*box-shadow: 0px 0px 1px 2px #B8B8B8 inset;*/
+/*}
+
+#option_buttons{
+	border: thin solid #424242;
+	height: 150px;
+	margin: 2px;
 }
 
 #content_right{
-	max-width: 65%;
-	max-height: 100%;
-	color: black;
+	width: 40%;
+	float: left;
 }
+
+#order_billing{
+	border: thin solid #424242;
+	height: 60px;
+	width: 99%;
+	margin: 2px auto 2px auto
+	
+}
+
+#detail_order{
+	border: thin solid #424242;
+	height: 280px;
+	width: 99%;
+	margin: 2px auto 2px auto;
+}
+
+#order_food{
+	border-bottom: thin solid #424242;
+	height: 138px;
+	width: 99%;
+	margin: auto;
+}
+
+#order_bar{
+	border-top: thin solid #424242;
+	height: 138px;
+	width: 99%;
+	margin: auto;
+}
+
+#food_menu{
+	margin: 2px auto 2px auto;
+}
+
+#item_list{
+	border: thin solid #424242;
+	width: 99%;
+	height: 196px;
+	margin: 2px auto 2px auto;
+}
+
+#cuisine_list{
+	border: thin solid #424242;
+	width: 99%;
+	height: 200px;
+	margin: 2px auto 2px auto;
+}
+
+/*#container{
+	height: 786px;
+	width: 1024px;
+	margin: 0 auto;
+}
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}*/
